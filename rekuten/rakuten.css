@@ -1,0 +1,174 @@
+body{
+    background-color: rgb(211, 211, 211);
+    
+}
+.sec1{
+    width: 100%;
+    height: 70px;
+    border: 1px ;
+    background-color: white;
+
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.rakuten{
+    width: 100px;
+    margin-top:20px ;
+    margin-left: 20px;
+    text-decoration: none;
+    text-decoration-line: none;
+
+
+}
+.links{
+    margin-left: 20px;
+    text-decoration: none;
+    color: grey;
+}
+.lk1{
+    margin-left: 200px;
+    text-decoration: none;
+    color: grey;
+
+}
+.loc1{
+    margin-left: 1000px;
+    text-decoration: none;
+    color: grey;
+}
+.loc2{
+    margin-left: 1050px;
+    margin-top: -17px;
+    text-decoration: none;
+    color: grey;
+}
+.loc3{
+    margin-left: 1090px;
+    margin-top: -35px;
+    text-decoration: none;
+    color: grey;
+   
+}
+
+
+
+
+
+
+
+ .logincontainer{
+    background-color: white;
+    width: 700px;
+    height: 400px ;
+    margin-top: 50px;
+    margin-left: 300px;
+ }
+ .login{
+   
+    font-weight: 5px;
+    margin-left: 280px;
+    
+ }
+ .li2{
+    font-size: 40px;
+ }
+ .newtov{
+    font-size: 13px;
+    margin-top: 5px;
+    color: gray;
+    margin-right: 50px;
+ }
+ .ca{
+    text-decoration: none;
+    color: rgb(177, 105, 129);
+    margin-right:50px ;
+    
+ }
+ .eyp{
+    font-size: 10px;
+    color: gray;
+    margin-top: 20px;
+    margin-left: 30px;
+ }
+#pn{
+    width: 150px;
+    height: 20px;
+    font-size: 10px;
+    margin-left: 20px;
+ }
+ .pn2{
+    font-size: 10px;
+ }
+ .pswd{
+    width: 150px;
+    height: 20px;
+
+ }
+ .ep{
+    font-size: 10px;
+ }
+ .fp{
+    font-size: 10px;
+ }
+ .bt{
+height: 30px;
+width: 160px;
+border-radius: 20px;
+ background-color: plum;
+ text-decoration: white;
+ }
+
+
+
+ .sec2{
+    width: 100%;
+    height: 200px;
+    margin-top: 30px;
+    
+
+    background-color: rgb(65, 16, 125);
+    justify-content: start;
+    display: grid;
+ }
+ .d{
+    
+    color:gray;
+    display: grid;
+    
+
+ }
+ .sec{
+   margin-left: 200px;
+   margin-top: -155px;
+ }
+ 
+ .secc{
+   margin-left: 50px;
+   margin-top: 18px;
+ }
+ .viber1{
+   margin-top: 10px;
+ }
+ .e{
+   color: grey;
+
+ }
+ .company1{
+   margin-top: 10px;
+
+ }
+
+ .seccc{
+   margin-left: 500px;
+
+ }
+
+
+
+
+
+
+
+
